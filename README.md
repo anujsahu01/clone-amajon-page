@@ -1,2 +1,2 @@
-# clone-amajon-page
-i create amajon front page using html and css
+# clone-amazon-page
+i create amazon front page using html and css
